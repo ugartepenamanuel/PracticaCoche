@@ -49,3 +49,12 @@ db.coche.insertMany([
     },
 
     ])
+
+db . coche . find (  {  _id :  3  }  )
+
+db . coche . find (  {  _id :  5  }  )
+
+db . coche . find (  {  _id :  2  }  )
+
+
+
