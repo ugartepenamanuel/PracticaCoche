@@ -4,7 +4,7 @@ db.coche.insertMany([
         _id: 1,
         Marca: "Ferrari",
         Modelo: "GTC4",
-        Año: "2016",
+        Año: 2016,
         Precio: 265708
     },
     
@@ -12,7 +12,7 @@ db.coche.insertMany([
         _id: 2,
         Marca: "Renault",
         Modelo: "Clio",
-        Año: "1990",
+        Año: 1990,
         Precio: 7000
     },
     
