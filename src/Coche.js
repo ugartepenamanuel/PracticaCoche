@@ -50,6 +50,8 @@ db.coche.insertMany([
 
     ])
 
+//....Probando el find.... //
+
 db.coche.find()  
 
 db . coche . find (  {  _id :  3  }  )
