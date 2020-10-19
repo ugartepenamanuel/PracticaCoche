@@ -61,11 +61,20 @@ db.coche.insertMany([
 
 db.coche.find()  
 
-db . coche . find (  {  _id :  3  }  )
+db.coche.find (  {  _id :  3  }  )
 
-db . coche . find (  {  _id :  5  }  )
+db.coche.find (  {  _id :  5  }  )
 
-db . coche . find (  {  _id :  2  }  )
+db.coche.find (  {  _id :  2  }  )
+
+db.coche.find( { "Marca": "Wolsvagen" } )
+
+db.coche.find( { "Marca": "Lamborghini" } )
+
+db.coche.find( { "Modelo": "Cactus" } )
+
+db.coche.find( { "Modelo": "Clio" } )
+
 
 
 
