@@ -1,3 +1,10 @@
+
+//....Para inserta un documento o un conjunto de documentos....// 
+//....disponemos de los métodos: insertOne: Inserta un documento....//
+//....en una colección. insertMany: Inserta múltiples documentos....//
+//....en una colección.... //
+
+
 db.coche.insertMany([
 
     {
